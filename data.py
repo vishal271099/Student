@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
 hello 
 vishal
->>>>>>> development
