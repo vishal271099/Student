@@ -1,6 +1,2 @@
-hello
-vish
-rahul
-yash
-pratik
-jigar
+hello 
+vishal
